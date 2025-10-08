@@ -2,7 +2,6 @@
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0-green?logo=opencv)](https://opencv.org/)
 [![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
 ## Panoramica
 
@@ -60,28 +59,22 @@ Un sistema avanzato di **computer vision** per il rilevamento e la classificazio
 <img width="381" height="205" alt="image" src="https://github.com/user-attachments/assets/236f059e-8b85-4179-b95a-5abcdd067569" />
 <img width="385" height="213" alt="Screenshot 2025-10-08 123425" src="https://github.com/user-attachments/assets/d3c8ec97-db69-4bfe-8a1a-919158cf032b" />
 
-
 ## Installazione ed Esecuzione
-Prerequisiti
-OpenCV 4.8.0 o superiore
 
-Compilatore C++17 (g++ 9+, MSVC 2019+)
-
-CMake 3.12+
+### Prerequisiti
+- **OpenCV 4.8.0** o superiore
+- **Compilatore C++17** 
+- **CMake 3.12** o superiore
+- **Sistema operativo**: Windows, Linux o macOS
 
 ### Compilazione
-bash
-git clone https://github.com/tuo-username/traffic-light-recognition.git
-cd traffic-light-recognition
-mkdir build && cd build
-cmake ..
-make
-### Esecuzione
-bash
-./traffic_light_recognition --video path/to/video.mp4
 
-
----
+```bash
+# Clonare repository
+git clone https://github.com/noemilatorre/Traffic_Light_Recognition.git
+cd Traffic_Light_Recognition
+# Creare la cartella di build e compilare
+```
 
 ## Autori
 

@@ -72,7 +72,7 @@ Un sistema avanzato di **computer vision** per il rilevamento e la classificazio
 ```bash
 # Clonare repository
 git clone https://github.com/noemilatorre/Traffic_light_Recognition.git
-cd Progetto_giorno o cd Progetto_notte
+cd Progetto giorno o cd Progetto notte
 ```
 
 ## Autori

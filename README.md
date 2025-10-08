@@ -84,4 +84,4 @@ cd Progetto giorno o cd Progetto notte
 - Email: latorre.noemi17@gmail.com 
 
 ---
-*Questo progetto è stato sviluppato come parte del corso di Sistemi Robotici e Robotica Applicata presso l'Università degli Studi di Cassino e del Lazio Meridionale.*
+*Questo progetto è stato sviluppato come parte del corso di Image Processing and Analysis presso l'Università degli Studi di Cassino e del Lazio Meridionale.*

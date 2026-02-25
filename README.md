@@ -38,7 +38,7 @@ E' stato validato su dataset reali raccolti nel centro cittadino di **Cassino (F
 - **Identificazione colore** tramite intervalli HSV calibrati
 - **Sistema di votazione ponderata** per decisione finale affidabile
 - **Gestione casi ambigui** con soglie multiple di confidenza
-Un sistema avanzato di **computer vision** per il rilevamento e la classificazione in tempo reale dello stato dei semafori urbani. Implementato in **C++ con OpenCV**, il sistema è robusto a diverse condizioni di illuminazione, inclusi scenari notturni.
+Un sistema avanzato di **computer vision** per il rilevamento e la classificazione in tempo reale dello stato dei semafori urbani.
 
 
 ---
